@@ -18,6 +18,8 @@ Here’s what you can do with ChatApp: 👇
 
 ⚡ **Seamless Experience** – Responsive and designed with Firebase at the core for reliable sync.
 
+watch a demo video on linkedin: https://www.linkedin.com/posts/abhinav-sharma-314319327_flutterproject-flutter-dart-activity-7369771020095864833-OPVR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJzY4ABokuOV1bS8C6y6y1n7ErKmfl6koU
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 🔥 Firestore Data Flow – ChatApp
