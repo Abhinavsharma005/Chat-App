@@ -1,7 +1,7 @@
-**ChatApp** 
+## **ChatApp** 
 A modern real-time messaging application built to connect people anytime, anywhere!
 
-Here’s what you can do with ChatApp: 👇
+# Here’s what you can do with ChatApp: 👇
 
 💬 **Real-Time Messaging** – Send and receive messages instantly.
 
@@ -22,7 +22,7 @@ watch a demo video on linkedin: https://www.linkedin.com/posts/abhinav-sharma-31
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-🔥 Firestore Data Flow – ChatApp
+## 🔥 Firestore Data Flow – ChatApp
 
 ChatApp uses Firebase Firestore as the primary database to manage users, chats, and messages in real-time.
 
@@ -105,7 +105,7 @@ service cloud.firestore {
   }
 }
 
-🔄 Flow Summary
+## 🔄 Flow Summary
 
 User Signup/Login → stores auth data inside users collection.
 
