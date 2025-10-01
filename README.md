@@ -17,7 +17,6 @@ A modern real-time messaging application built to connect people anytime, anywhe
 📱 **WhatsApp-like Features** – See user online/offline status, plus last message previews with timestamps for a familiar, intuitive chat flow.
 
 ⚡ **Seamless Experience** – Responsive and designed with Firebase at the core for reliable sync.
----
 
 ## 🎥 Demo Video  
 👉 [Watch on LinkedIn](https://www.linkedin.com/posts/abhinav-sharma-314319327_flutterproject-flutter-dart-activity-7369771020095864833-OPVR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJzY4ABokuOV1bS8C6y6y1n7ErKmfl6koU) 
